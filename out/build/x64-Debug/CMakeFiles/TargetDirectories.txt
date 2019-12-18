@@ -1,0 +1,14 @@
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/src/CMakeFiles/Polynomial.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/samples/CMakeFiles/edit_cache.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/samples/CMakeFiles/main.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/samples/CMakeFiles/rebuild_cache.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/gtest/CMakeFiles/gtest.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/gtest/CMakeFiles/edit_cache.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/gtest/CMakeFiles/rebuild_cache.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/test/CMakeFiles/test_Polynomial.dir
+C:/Users/Komar/source/repos/mp2-lab4-polynomial/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
